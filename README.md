@@ -1,25 +1,33 @@
-Overview
+# 📂 Study Supplemental Materials
 
-This folder contains supplemental materials related to the study, including lists of questions, task descriptions, and requirements documentation for each participant. Below is a breakdown of the contents and their respective purposes.
+This folder contains supplemental materials related to the study, including lists of questions, task descriptions, and requirements documentation for each participant.
 
-Contents
+---
 
-1. Lists of Questions
+## 📑 Contents
 
-ASKs.pdf – A complete list of ASK questions used in the study.
+### 1. 📋 Lists of Questions
 
-Context Questions.pdf – A complete list of context questions provided to participants.
+- **`ASKs.pdf`** – Complete list of ASK questions used in the study.
+- **`Context Questions.pdf`** – Complete list of context questions provided to participants.
 
-2. Task Descriptions
+---
 
-UC1 Traffic Signal Task Description.pdf – Description of the task given to participants for UC1 (Traffic Signal Task).
+### 2. 🧾 Task Descriptions
 
-UC2 Dynamic Terrain Walking Task Description.pdf – Description of the task given to participants for UC2 (Dynamic Terrain Walking Task).
+- **`UC1 Traffic Signal Task Description.pdf`**  
+  Description of the task given to participants for **UC1** *(Traffic Signal Task)*.
 
-3. Requirements Folder
+- **`UC2 Dynamic Terrain Walking Task Description.pdf`**  
+  Description of the task given to participants for **UC2** *(Dynamic Terrain Walking Task)*.
 
-The "Requirements" folder contains individual directories for each participant. Each directory includes the following files:
+---
 
-System Requirements – The participant’s original (baseline) requirements.
+### 3. 📁 Requirements Folder
 
-Requirements Delta – The generated requirements, with additions (not found in the baseline) highlighted in green.
+The `Requirements` folder contains individual subfolders for each participant. Each folder includes the following files:
+
+- **System Requirements** – The participant’s original (baseline) requirements.
+- **Requirements Delta** – The generated requirements, with **additions** (not found in the baseline) **highlighted in green**.
+
+---
